@@ -1,0 +1,254 @@
+[
+  {
+    "id": 100,
+    "image1": "cm1_hist_cours1_edit_milan",
+    "image2": "cm1_hist_cours1_edit_thessalonique",
+    "title": "Celtes, Gaulois, Grecs et Romains : quels héritages des mondes anciens ?",
+    "paragraph1": "Pour les écrivains de l’Antiquité, « Gaulois » et « Celtes » sont des termes flottants, parfois interchangeables, et les contours de la « Gaule » sont mal délimités. Ce n’est qu’au XVIIIe siècle qu’on fit des gallo-romains les ancêtres du tiers-état par opposition aux Francs, ancêtres des nobles, et qu’au XIXe que l’on vit dans l’éphémère groupement des Gaulois autour de Vercingétorix la première forme d’unité française toujours menacée par les divisions intérieures. Nous avons aujourd’hui des Gaulois, grâce à l’archéologie, l’image d’une confédération de peuples, participant, dès avant la fondation de la colonie grecque de Massalia (Marseille, vers 600 avant notre ère), au commerce méditerranéen, dans un espace allant jusqu’à l’Atlantique, la Manche et le Rhin. Chaque peuple était organisé en cité, avec un Sénat – composé des délégués de l’unité de base, le pagus – des sanctuaires et des druides, qui n’étaient pas des prêtres, mais des sortes de « théologiens » investis dans l’éducation, la justice et la connaissance des astres. L’archéologie confirme leur savoir-faire en matière d’artisanat, qu’il s’agisse de métallurgie du fer ou du travail du bois (charpentes, navires…) et d’agriculture romaine. ",
+    "paragraph2": "Certains peuples, comme les Éduens, sont des alliés privilégiés de Rome. La « Gaule cisalpine » (actuelle plaine du Pô) avait été conquise au début du IIIe siècle av. J.-C., le Sud de la « Gaule transalpine » entre 122 et 118 av. J.-C. et le reste entre 58 et 51 av. J.-C. C’est dans le cadre de l’empire romain que s’opère la christianisation de la Gaule. Au IIe siècle, la présence de communautés de chrétiens venus d’Orient, de langue et de culture grecques, est attestée à Lyon. Le christianisme se diffuse par les grands axes de communication. Longtemps, il reste un phénomène urbain. Il se diffuse plus largement à partir de l’édit de Milan promulgué en 313 par Constantin et qui accorde la liberté de culte aux fidèles. Les découvertes archéologiques ont mis au jour les premières traces matérielles témoignant de sa diffusion (motifs et formulaires chrétiens sur les sarcophages et les inscriptions).",
+    "paragraph3": "Mais c’est l’édit de Thessalonique, de l’empereur Théodose, en 380, qui marque un tournant décisif en faisant du christianisme l’unique religion de l’empire. À la fin du IVe siècle, chaque chef-lieu de cité à son évêque ; cathédrales et basiliques sont construites. Le processus de christianisation se poursuit jusqu’au VIe siècle, voire jusqu’aux VIIe et VIIIe siècles dans certaines zones rurales, au sein de la Gaule mérovingienne. Il relève donc bien d’une longue durée. L’alliance conclue entre l’Église catholique et les rois mérovingiens favorise la dynamique du royaume des Francs.",
+    "latitude": 48.117266,
+    "longitude": -1.6777926,
+    "quizz": [
+      {
+        "question": "Qui sont les ancêtres du tiers-état ?",
+        "answer": "gallo-romains",
+        "answerPrint": "Les ancêtres du tiers-état sont les gallo-romains."
+      },
+      {
+        "question": "De qui les francs sont-ils les ancêtres ?",
+        "answer": "Nobles",
+        "answerPrint": "Les francs sont les ancêtres des Nobles."
+      },
+      {
+        "question": "Comment s’appelait la France dans l’Antiquité ?",
+        "answer": "Gaule",
+        "answerPrint": "La France était autrefois appelé la Gaule."
+      },
+      {
+        "question": "L’éphémère groupement de Gaulois vivait principalement autour d’une personne. Quel était son nom  ?",
+        "answer": "Vercingétorix",
+        "answerPrint": "Le groupement Gaulois vivait autour de Vercingétorix"
+      },
+      {
+        "question": "Quel actuelle ville française était une colonie grecque à cette époque ? (nom français)",
+        "answer": "Marseille",
+        "answerPrint": "Marseille était à cette époque une colonie Grecques sous le nom de Massalia"
+      },
+      {
+        "question": "Quel est l’édit promulgué en 313 par Constantin, qui accorde la liberté de culte aux fidèles ?",
+        "answer": "édit de Milan",
+        "answerPrint": "L'édit de Milan a été promulgué en 313 sous Constantin"
+      },
+      {
+        "question": "Qui était l’empereur quand l'édit de Thessalonique a été adopté  ?",
+        "answer": "Théodose",
+        "answerPrint": "Théodose est l'empereur qui a promulgué l'édit de Thessalonique."
+      },
+      {
+        "question": "Comment étaient organisés les peuples à cette époque ?",
+        "answer": "cité",
+        "answerPrint": "A cette époque, les peuples étaient organisés en cité."
+      },
+      {
+        "question": "A la fin de quel siècle, cathédrales et basiliques furent construite à l’évêque de chaque chef-lieu de cité ?",
+        "answer": "IV",
+        "answerPrint": "C'est à la fin du IVème siècle que les cathédrales et basiliques furent construites"
+      },
+      {
+        "question": "Quelle alliance favorise la dynamique du royaume des francs ?",
+        "answer": "Église catholique et les rois mérovingiens",
+        "answerPrint": "C'est l'alliance entre l'Eglique catholique et les rois mérovingiens qui ont favorisé le dynamisme de royaume des francs"
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "image1": "cm1_hist_cours2_louis14_a",
+    "image2": "cm1_hist_cours2_louis14_versailles",
+    "title": "LOUIS XIV",
+    "paragraph1": "Le Versailles de Louis XIV est demeuré le symbole de la « monarchie absolue » et de la « monarchie de droit divin » plaçant le roi au-dessus des lois. L’absolutisme est surtout une doctrine, affirmant que la souveraineté réside toute entière dans la personne du roi. La pratique est différente, puisque le roi doit respecter les « lois fondamentales du Royaume », qui sont un ensemble de principes non fixés par écrit : le roi doit respecter la coutume, ne peut révoquer que les privilèges qu’il a lui-même accordés, le domaine royal (qui se confond désormais avec le royaume) est inaliénable, la succession au trône se fait par ordre de primogéniture mâle, le roi doit être catholique.",
+    "paragraph2": "Mais le pouvoir de Louis XIV est particulièrement affirmé : sacré en 1654, il décide en 1661, à la mort de Mazarin, de ne plus avoir de ministre principal et d’exercer personnellement la direction des affaires. Marqué par la Fronde, une révolte de la grande noblesse et des Parlements qui a eu lieu en 1650, il impose un pouvoir fort, doublé d’une politique de grandeur de la France en Europe. Versailles, qu’il occupe à partir de 1682, fixe la cour jusque-là itinérante et lui permet de contrôler la noblesse d’épée. C’est le centre du pouvoir royal, en même temps qu’une manifestation architecturale et artistique de la puissance royale du « roi Soleil ». Cependant, la révocation de l’édit de Nantes, en 1685, contribue à affaiblir la prospérité française et soude contre la France les puissances protestantes. La fin du règne est difficile, les guerres menées par le roi n’atteignant pas les buts escomptés.",
+    "paragraph3": "C’est sous Louis XIV que le premier empire colonial français devient une priorité économique et politique, même si l’expansion coloniale commence dès le début du XVIIe siècle, notamment en Nouvelle France (du Canada à la Louisiane), après les balbutiements inaboutis de Jacques Cartier et de la France Antarctique au XVIe siècle. Les départements et les régions d’outremer constituent les traces de cet empire colonial français dans la France d’aujourd’hui. La participation de la France à la traite négrière doit beaucoup à la volonté du pouvoir royal de favoriser le grand commerce français (mercantilisme).",
+    "latitude": 48.801408,
+    "longitude": 2.130122,
+    "quizz": [
+      {
+        "question": "La succession du Trône peut se faire avec une femme. (Vrai ou Faux)",
+        "answer": "Faux",
+        "answerPrint": "Faux, seul un homme peut monter sur le trône !"
+      },
+      {
+        "question": "Le roi doit être catholique pour accéder au trône. (Vrai ou Faux)",
+        "answer": "Vrai",
+        "answerPrint": "Le roi a l'obligation d'être catholique."
+      },
+      {
+        "question": "Quel est le nom du ministre mort en 1661 ?",
+        "answer": "Mazarin",
+        "answerPrint": "Le cardinal Mazarin est décédé en 1661."
+      },
+      {
+        "question": "Quel événement a eu lieu en 1650 ?",
+        "answer": "La Fronde",
+        "answerPrint": "La Fronde, une révolte de la grande noblesse et des Parlements, a eu lieu en 1650"
+      },
+      {
+        "question": "En quelle année Louis XIV est sacré Roi de France ?",
+        "answer": "1654",
+        "answerPrint": "C'est en 1654 que Louis XIV est sacré Roi de France"
+      },
+      {
+        "question": "Quel était le surnom de Louis XIV ?",
+        "answer": "Le roi soleil",
+        "answerPrint": "Louis XIV était surnommé le Roi-Soleil"
+      },
+      {
+        "question": "Dans quel lieu s’est installé Louis XIV en 1682 ?",
+        "answer": "Chateau de Versailles",
+        "answerPrint": "En 1662, Louis XIV a décidé de s'installer au Château de Versailles."
+      },
+      {
+        "question": "En quelle année a été révoqué l’édit de Nantes ?",
+        "answer": "1685",
+        "answerPrint": "L'édit de Nantes fut révoqué en l'an 1685"
+      },
+      {
+        "question": "Quel explorateur connu est évoqué dans la leçon ?",
+        "answer": "Jacques Cartier",
+        "answerPrint": "Jacques Cartier, qui a découvert le Canada, est l'explorateur evoqué dans la leçon."
+      },
+      {
+        "question": "Quels sont les deux principaux territoires colonisés par la France ?",
+        "answer": "Canada et Louisiane",
+        "answerPrint": "Les deux principaux territoires colonisés à cette époque sont le Canada et la Louisiane."
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "image1": "cm1_hist_cours3_revolution_fra",
+    "image2": "cm1_hist_cours3_execution_louis16",
+    "title": "Le temps de la Révolution",
+    "paragraph1": "Le projet de la monarchie d’opérer une réforme fiscale pour redresser sa situation financière se heurte à l’opposition de la noblesse de robe (anoblie au service de l’État) très puissante dans les Parlements. Les opposants réclament la convocation des États généraux, qui n’ont plus été réunis depuis 1615 ; cette convocation représente la fin de la « monarchie absolue ». Louis XVI perd rapidement le contrôle des États généraux réunis au printemps 1789. Sous l’impulsion du tiers-état, aidés de la partie réformatrice de la noblesse et du bas clergé, ceux-ci se transforment en Assemblée nationale constituante. La révolte du peuple parisien, le 14 juillet 1789, et le soulèvement des campagnes contre les droits féodaux précipitent les choses ; avec l’abolition des privilèges qui pose l’égalité des citoyens devant la loi (nuit du 4 août 1789) et l’adoption de la Déclaration des droits de l’homme et du citoyen (26 août 1789), se précisent les principes sur lesquels la monarchie constitutionnelle devra reposer.",
+    "paragraph2": " Quand bien même la première constitution française est achevée en 1791, on est alors loin du grand élan unitaire de 1789 : le roi a tenté de fuir et a été arrêté à Varennes.L’entrée de la France en guerre, au printemps 1792, achève d’exaspérer les tensions ; s’agit-il de diffuser la Révolution à l’ensemble de l’Europe ou d’un double jeu de Louis XVI pour retrouver tout son pouvoir en misant sur une défaite ? Le 10 août 1792, une journée parisienne aboutit à la chute de la monarchie. La Première République est mise en place en septembre 1792.Cependant, les partisans de la Révolution de 1789 sont désormais divisés ; la « Terreur » qui vient des sociétés populaires de sans-culottes et que la Convention reprend à son compte s’abat sur les ennemis réels ou supposés de la République, la guerre civile fait rage dans la région militaire de Vendée – mais la Convention défend le territoire face à l’Europe coalisée.",
+    "paragraph3": "La phase de la Révolution qui va jusqu’à l’exécution de Louis XVI est donc marquée par deux aspects contradictoires : d’une part, la formulation de principes démocratiques qui vont devenir des références internationales. D’autre part, l’échec à construire un ordre stable à partir de ces principes. On peut considérer que la période 1792-1794 voit aussi s’exprimer des ambitions démocratiques qui, de fait, n’aboutiront pas à court terme : suffrage universel, ambitions sociales, droit à l’enseignement pour tous, abolition de l’esclavage dans les colonies françaises.",
+    "latitude": 48.856614,
+    "longitude": 2.3522219,
+    "quizz": [
+      {
+        "question": "Qui s’oppose au projet de réforme fiscale de la monarchie ?",
+        "answer": "La noblesse de Robe",
+        "answerPrint": "Il s'agit de la noblesse de Robe qui s'oppose au projet de réforme fiscal"
+      },
+      {
+        "question": "Quand avait eu lieu la dernière convocation des États généraux ?",
+        "answer": "1615",
+        "answerPrint": "La dernière convocation des Etats Généraux avait eu lieu en 1615"
+      },
+      {
+        "question": "Quel est la conséquence de la convocation des États généraux dans la leçon ?",
+        "answer": "La fin de la monarchie absolue",
+        "answerPrint": "Cette convocation a abouti à la fin de la monarchie absolue."
+      },
+      {
+        "question": "Quand a eu lieu la révolte du peuple parisien ?",
+        "answer": "14 juillet 1789",
+        "answerPrint": "Le peuple parisien s'est revolté le 14 juiller 1789"
+      },
+      {
+        "question": "A quelle date a été adoptée la Déclaration des droits de l’homme et du citoyen ?",
+        "answer": "26 août 1789",
+        "answerPrint": "La Déclaration des droits de l'homme et du citoyen fut adopté le 26 Aout 1789."
+      },
+      {
+        "question": "Qu’est achevé en 1791 ?",
+        "answer": "La première constitution française",
+        "answerPrint": "La première constitution française arriva en 1791."
+      },
+      {
+        "question": "Quand a eu lieu la chute de la monarchie ?",
+        "answer": "10 août 1792",
+        "answerPrint": "La monarchie connût sa chute le 10 Août 1792."
+      },
+      {
+        "question": "Quand est mise en place la première République ?",
+        "answer": "septembre 1792",
+        "answerPrint": "C'est en Septembre 1792 que fût mis en place la première République."
+      },
+      {
+        "question": "Où le roi Louis XVI a-t-il été arrêté ?",
+        "answer": "Varennes",
+        "answerPrint": "Louis XVI fût arrêté à Varennes."
+      },
+      {
+        "question": "Qui est exécuté durant la révolution française ?",
+        "answer": "Louis XVI",
+        "answerPrint": "C'est ce-dernier qui fût la principale éxecution durant la révolution française."
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "image1": "cm1_hist_cours4_napoleon",
+    "image2": "cm1_hist_cours4_napoleon_code_civil",
+    "title": "Napoléon Bonaparte",
+    "paragraph1": "Quand Napoléon Bonaparte prend le pouvoir, lors du coup d’État du 18 brumaire an VIII (9 novembre 1799), le projet des conjurés (derrière Sieyès) est de renforcer le pouvoir exécutif et de stabiliser la révolution. Le retour à l’ordre et la paix d’Amiens avec l’Angleterre (1802) valent à Bonaparte d’être « Consul à vie ». Il tente de fonder une nouvelle dynastie en établissant l’Empire en 1804, en essayant de réconcilier les élites issues de la Révolution et les élites traditionnelles.",
+    "paragraph2": "Dominant l’Europe, il ne parvient pas à stabiliser cette domination, et sa défaite amène sa première abdication en 1814. Le régime napoléonien a respecté de moins en moins les libertés publiques, mais il a réorganisé l’État dans le cadre départemental hérité de la Révolution, avec la mise en place des préfets. Il a fondé l’Université et a organisé les enseignements secondaire et supérieur.",
+    "paragraph3": "Avec la promulgation du Code civil, en 1804, il a unifié le droit français selon le principe de l’égalité des citoyens devant la loi. Il a réorganisé les finances de l’État surtout par la perception des impôts et appuyé la création de la Banque de France.",
+    "latitude": 41.919229,
+    "longitude": 8.738635,
+    "quizz": [
+      {
+        "question": "Quand Napoléon Bonaparte prend-il le pouvoir selon le calendrier grégorien ?",
+        "answer": "9 novembre 1799",
+        "answerPrint": "Napoléon Bonaparte pris le pouvoir le 9 Novembre 1799."
+      },
+      {
+        "question": "Donnez cette même date selon le calendrier républicain ?",
+        "answer": "18 brumaire an VIII",
+        "answerPrint": "9 Novembre 1799 devient le 18 brumaire an VIII."
+      },
+      {
+        "question": "Comment Napoléon Bonaparte a-t-il pris le pouvoir ?",
+        "answer": "Coup d’État",
+        "answerPrint": "C'est en faisant un coup d'état que Napoléon pris le pouvoir."
+      },
+      {
+        "question": "Quel événement a eu lieu en 1802 ?",
+        "answer": "La paix d’Amiens",
+        "answerPrint": "En 1802, eût lieu la paix d'Amiens"
+      },
+      {
+        "question": "Quel est le titre attribué à Napoléon après cet événement ?",
+        "answer": "Consul à vie",
+        "answerPrint": "Après avoir participé à la paix d'Amiens, Napoléon reçut le titre de 'Consul à vie'"
+      },
+      {
+        "question": "En quelle année a été promulgué le Code civil ?",
+        "answer": "1804",
+        "answerPrint": "Le Code Civil apparût en 1804"
+      },
+      {
+        "question": "Qu’est ce qu’a établi Napoléon en 1804 ?",
+        "answer": "L’Empire",
+        "answerPrint": "Napoléon établît l'Empire en 1804"
+      },
+      {
+        "question": "Quelle est la date de sa première abdication ?",
+        "answer": "1814",
+        "answerPrint": "Napoléon abdiqua en 1814"
+      },
+      {
+        "question": "Quel organisme scolaire a été fondé sous Napoléon ?",
+        "answer": "L’Université",
+        "answerPrint": "L'Université fût fondé sous le régime Napoléonien."
+      },
+      {
+        "question": "Quel organisme économique a été créé sous Napoléon ?",
+        "answer": "La Banque de France",
+        "answerPrint": "La Banque de France fût créée sous Napoléon."
+      }
+    ]
+  }
+]

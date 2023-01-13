@@ -1,0 +1,255 @@
+[
+  {
+    "id": 200,
+    "image1": "cm2_geo_cours1_suisse",
+    "image2": "cm2_geo_cours1_alena",
+    "title": "Les frontières",
+    "paragraph1": "Une frontière est une ligne imaginaire qui sépare deux États. Elle peut aussi séparer des régions, des communautés, des modes de vie (frontières linguistiques). Certaines sont rigides, d’autres sont ouvertes. L’origine du mot « frontière » vient de « front », un terme militaire, qui désigne la zone de contact entre deux armées ennemies. À partir du 17e siècle, le mot « frontière » prend son sens actuel. Au 19e siècle, quand les États-nations se créent, ils utilisent le concept de frontière naturelle pour délimiter leur territoire. Une frontière naturelle est une frontière formée par un obstacle physique (un fleuve, une montagne, un désert), ce qui rend le contrôle militaire de la frontière plus facile.",
+    "paragraph2": "La frontière a donc une utilité militaire et une utilité douanière, c'est-à-dire le fait de contrôler les personnes et les marchandises qui passent la frontière. La frontière « crée » également des flux illégaux qui tentent d’échapper à ce contrôle (contrebande, clandestinité). De nombreux pays font progressivement disparaître les barrières douanières pour favoriser le commerce (Union européenne, ALENA (Accord de Libre-Échange Nord-Américain) entre le Canada, le Mexique et les États-Unis)).",
+    "paragraph3": "On utilise aussi le terme de « frontière » en géographie pour exprimer une séparation entre des communautés ou des groupes culturels. Ces frontières sont plus floues. On parle de frontière linguistique entre la Suisse italienne et la Suisse allemande, par exemple, ou encore de frontière religieuse entre catholiques et protestants en Allemagne ou enfin de frontière urbaine entre un quartier résidentiel composé de pavillons (= maisons individuelles) et une cité d’immeubles. La frontière est souvent invisible dans ce cas, mais connue des habitants du quartier.",
+    "latitude": 48.5734053,
+    "longitude": 7.7521113,
+    "quizz": [
+      {
+        "question": "“Une ligne imaginaire qui sépare deux États.” De quoi s’agit-il ?",
+        "answer": "Frontière",
+        "answerPrint": "Une ligne imaginaire qui sépare deux États est appelée une frontière."
+      },
+      {
+        "question": "De quel autre mot, “Frontière” est-il originaire ?",
+        "answer": "Front",
+        "answerPrint": "Frontière provient du mot Front."
+      },
+      {
+        "question": "A partir de quel siècle, le mot “frontière” prend-il son sens actuel ?",
+        "answer": "17ème",
+        "answerPrint": "Le mot frontière prend son sens actuel à partir du 17ème siècle."
+      },
+      {
+        "question": "Quel est le nom complet de l’ALENA ?",
+        "answer": "Accord de Libre-Échange Nord-Américain",
+        "answerPrint": "ALENA signifie Accord de Libre-Échange Nord-Américain"
+      },
+      {
+        "question": "Quels pays font partis de l’ALENA ?",
+        "answer": "Le Canada, le Mexique et les États-Unis",
+        "answerPrint": "Le Canada, le Mexique et les États-Unis sont les 3 pays qui composent l'ALENA"
+      },
+      {
+        "question": "Qu’est ce que crée la frontière également ?",
+        "answer": "Des flux illégaux",
+        "answerPrint": "Des flux illégaux sont crées par les frontières."
+      },
+      {
+        "question": "Quelles sont les utilités d’une frontière ?",
+        "answer": "Une utilité militaire et douanière",
+        "answerPrint": "Les frontières ont principalement une utilité militaire et douanière."
+      },
+      {
+        "question": "Par quoi est formée une frontière naturelle ?",
+        "answer": "Un obstacle physique",
+        "answerPrint": "Un obstacle physique est ce qui forme une frontière naturelle"
+      },
+      {
+        "question": "Dans quel pays peut-on parler de frontière linguistique ?",
+        "answer": "La Suisse",
+        "answerPrint": "La Suisse possèdent plusieurs frontières linguistiques avec la Suisse Romande, la Suisse Alémanique ou la Suisse italienne."
+      },
+      {
+        "question": "Une frontière entre catholiques et protestants est appelée ?",
+        "answer": "Une frontière religieuse",
+        "answerPrint": "Une frontière entre catholiques et protestants est appelée une frontière religieuse."
+      }
+    ]
+  },
+  {
+    "id": 201,
+    "image1": "cm2_geo_cours2_migrations",
+    "image2": "cm2_geo_cours2_touriste",
+    "title": "Le monde aujourd'hui",
+    "paragraph1": "Dans le monde d’aujourd’hui, les régions du monde sont reliées entre elles grâce à la révolution des transports et des télécommunications. Cette révolution provoque l’accélération des échanges et la transformation des territoires et des sociétés qui s’organisent désormais à l’échelle mondiale. On constate depuis les années 90 environ, une accélération des échanges commerciaux mondiaux et de la mobilité des hommes. Cette accélération est rendue possible par la révolution des transports et des télécommunications. Toutes ces transformations ont des impacts considérables sur les territoires et les sociétés humaines. Les sociétés humaines deviennent elles aussi plus sensibles aux enjeux mondiaux comme l’environnement.",
+    "paragraph2": "La révolution des transports a eu lieu dans le domaine aérien, avec la chute du prix dans les transports aériens (développement des vols low cost, c'est-à-dire à bas prix), dans le domaine des transports maritimes avec le développement des pétroliers géants et des porte-conteneurs.Cette révolution des transports et des communications a provoqué une croissance sans précédent des échanges mondiaux. Par ailleurs, les mobilités humaines n’ont cessé de se développer : les migrations internationales concernent aujourd’hui 3 % de la population mondiale et les mobilités touristiques concernent 10 % de la population mondiale.La révolution des télécommunications s’appuie surtout sur le développement d’Internet qui met en relation toutes les parties du monde.",
+    "paragraph3": "Ces dynamiques entraînent de profondes transformations des espaces la concentration des pouvoirs et des richesses dans des « villes-mondes » ainsi qu’une division internationale du travail dans laquelle les pays du Nord concentrent les activités tertiaires et délocalisent les activités industrielles et tertiaires de faible niveau dans les pays du Sud ou encore la réorganisation des espaces : aménagement des ports, des aéroports, des transports, de zones touristiques",
+    "latitude": 51.509093,
+    "longitude": -0.094151,
+    "quizz": [
+      {
+        "question": "Complétez. La révolution des transports et des télécommunications permet de relier",
+        "answer": "Les régions du monde",
+        "answerPrint": "La révolution des transports et des télécommunications permet de relier les régions du monde"
+      },
+      {
+        "question": "Quelle a été la révolution dans le domaine des transports maritimes ?",
+        "answer": "Le développement des pétroliers géants et des porte-conteneurs",
+        "answerPrint": "Le développement des pétroliers géants et des porte-conteneurs a été la révolution dans le domaine des transports maritimes."
+      },
+      {
+        "question": "Comment sont appelés les vols à bas prix ?",
+        "answer": "Les vols low-cost",
+        "answerPrint": "Les vols à bas prix sont appelés des vols low-cost."
+      },
+      {
+        "question": "Depuis quelles années, constate-t-on une accélération des échanges commerciaux mondiaux et de la mobilité des hommes ?",
+        "answer": "Les années 90",
+        "answerPrint": "Depuis les années 90, on constate une accélération des échanges commerciaux mondiaux et de la mobilité des hommes."
+      },
+      {
+        "question": "Quel est le pourcentage concernant les migrations internationales ?",
+        "answer": "3%",
+        "answerPrint": "Les migrations internationales concernent 3%"
+      },
+      {
+        "question": "Quel est le pourcentage correspondant aux mobilités touristiques ?",
+        "answer": "10%",
+        "answerPrint": "Le pourcentage correspondant aux mobilités touristiques est de 10%."
+      },
+      {
+        "question": "Sur quoi s’appuie principalement la révolution des télécommunications ?",
+        "answer": "Internet",
+        "answerPrint": "La révolution des télécommunications s'appuie principalement sur internet."
+      },
+      {
+        "question": "Complétez : “ Les sociétés humaines deviennent elles aussi plus sensibles aux enjeux mondiaux comme …”?",
+        "answer": "L’environnement",
+        "answerPrint": "Les sociétés humaines deviennent elles aussi plus sensibles aux enjeux mondiaux comme l'environnement."
+      },
+      {
+        "question": "Comment s’appelle les villes où sont concentrées les pouvoirs et les richesses ?",
+        "answer": "Les villes-mondes",
+        "answerPrint": "Les villes-mondes sont les villes où sont concentrées les pouvoirs et les richesses."
+      },
+      {
+        "question": "Cependant quel effet négatif entraîne toutes ces dynamiques ?",
+        "answer": "Une division",
+        "answerPrint": "Une division est entraînée avec toutes ces dynamiques."
+      }
+    ]
+  },
+  {
+    "id": 202,
+    "image1": "cm2_geo_cours3_metropole",
+    "image2": "cm2_geo_cours3_paris",
+    "title": "Les activités urbaines",
+    "paragraph1": "L'organisation d'une ville : Elles s’organisent autour d’un centre historique ancien avec ses monuments, ses musées, ses magasins. Autour se sont développés des quartiers divers, puis des banlieues composées de maisons et de grands ensembles d’immeubles. Les villes ont des tailles différentes et des activités diverses (commerces, banques, services). Certaines ont une activité dominante : ce sont les villes administratives (les préfectures par exemple), les villes industrielles ou les villes touristiques.",
+    "paragraph2": "Les grandes villes : Paris, capitale de la France, se distingue par le nombre de ses habitants (2 millions), la multitude et la diversité de ses activités économiques, financières, scientifiques, culturelles, touristiques.Le pouvoir politique (les ministères), le pouvoir économique (la Bourse) et les fonctions culturelles (universités, bibliothèques, salles de spectacles, cinémas) sont présents dans la ville. Les grandes métropoles régionales : Elles cumulent (= regroupent) les secteurs d’activités. On y trouve d’importantes universités, des centres de recherche et le siège de nombreuses entreprises (= la direction et les principales activités de l’entreprise).",
+    "paragraph3": "Les « villes nouvelles » : A partir de 1968, pour loger la population des villes qui était en pleine croissance, on a construit des villes près des grandes agglomérations déjà existantes : 5 près de Paris (par exemple, Cergy-Pontoise, au nord de la capitale), 1 près de Lille,  1 près de Marseille…. Ces villes nouvelles ont été créées pour offrir à leurs habitants des emplois sur place (des zones industrielles, bureaux…) Elles sont équipées en commerces, écoles, hôpitaux et loisirs et sont facilement reliées aux grandes villes qui sont proches par le réseau routier et le chemin de fer.",
+    "latitude": 48.856614,
+    "longitude": 2.3522219,
+    "quizz": [
+      {
+        "question": "Autour de quoi s’organise principalement une ville ?",
+        "answer": "Un centre historique ancien",
+        "answerPrint": "Les villes sont principalement organisées autour d'un centre historique ancien"
+      },
+      {
+        "question": "Quel exemple de grande ville prend-on dans notre leçon ?",
+        "answer": "Paris",
+        "answerPrint": "Dans note leçon, nous avons pris Paris comme exemple."
+      },
+      {
+        "question": "Complétez : “Certaines ont une activité … : ce sont les villes administratives (les préfectures par exemple), les villes industrielles ou les villes touristiques.”",
+        "answer": "dominante",
+        "answerPrint": "Certaines ont une activité dominante : ce sont les villes administratives (les préfectures par exemple), les villes industrielles ou les villes touristiques."
+      },
+      {
+        "question": "Combien d'habitants résident dans cette grande ville ?",
+        "answer": "2 millions",
+        "answerPrint": "Paris compte environ 2 millions d'habitants."
+      },
+      {
+        "question": "D’après notre leçon, Sevran est-elle considérée comme ville nouvelle ? (Vrai ou Faux)",
+        "answer": "Faux",
+        "answerPrint": "D’après notre leçon, Cergy-Pontoise est considérée comme ville nouvelle."
+      },
+      {
+        "question": "A partir de quelle année construit-on des villes près de grandes agglomérations pour loger la population ?",
+        "answer": "1968",
+        "answerPrint": "C'est à partir de 1968 que l'on construit des villes près de grandes agglomérations pour loger la population."
+      },
+      {
+        "question": "“Elles cumulent les secteurs d’activités. On y trouve d’importantes universités, des centres de recherche et le siège de nombreuses entreprises” Que sont-elles ?",
+        "answer": "Les grandes métropoles régionales",
+        "answerPrint": "Dans les grandes métropoles régionales, se cumulent les secteurs d'activités et on y trouve d’importantes universités, des centres de recherche et le siège de nombreuses entreprises."
+      },
+      {
+        "question": "Qu’est ce qui caractérise le pouvoir économique d’une grande ville ?",
+        "answer": "La Bourse",
+        "answerPrint": "La présence de la Bourse caractérise le pouvoir économique d’une grande ville."
+      },
+      {
+        "question": "Quels sont les symboles politiques dans les grandes villes ?",
+        "answer": "Les ministères",
+        "answerPrint": "Les ministères sont les symboles politiques dans les grandes villes."
+      },
+      {
+        "question": "Vrai ou faux. “Ces villes nouvelles ont été créées pour offrir à leurs habitants des emplois sur place.”",
+        "answer": "Vrai",
+        "answerPrint": "Ces villes nouvelles ont bien été créées pour offrir à leurs habitants des emplois sur place."
+      }
+    ]
+  },
+  {
+    "id": 203,
+    "image1": "cm2_geo_cours4_montblanc",
+    "image2": "cm2_geo_cours4_littoral",
+    "title": "La France en Europe",
+    "paragraph1": "Le relief : On trouve sur le territoire français à la fois la présence des massifs hercyniens d’Europe du Nord (Massif central, Massif armoricain, Ardennes, Vosges), l’extrémité ouest de la grande plaine d’Europe et enfin les chaînes de montagnes récentes (Alpes, Pyrénées, Jura). On peut opposer une France du Nord-Ouest se caractérisant par de faibles altitudes (mont d’Arrée, 384 mètres) constituée de plaines, de bassins sédimentaires et de plateaux, à une autre du Sud-Est plus élevée et aux reliefs montagneux saillants (mont Blanc, 4 807 mètres), faite de couloirs de circulation dont le Sillon rhodanien est un exemple. D’une manière générale, le relief de la France est peu élevé.",
+    "paragraph2": "Un carrefour de cultures : Certes, la France en tant qu’espace national est une construction de l’histoire et la recherche des frontières naturelles un mythe. La France a brassé un grand nombre de populations et de civilisations et accueilli des immigrations diverses, ainsi les Italiens et les Polonais au début du XXe siècle et plus récemment les Portugais, les Maghrébins et les Africains. Toutes ces cultures ont laissé et laissent encore leur empreinte culturelle dont la langue n’est qu’un exemple (breton, alsacien, catalan). Ces populations ont façonné l’espace agricole et industriel.",
+    "paragraph3": "Un territoire ouvert : Le Couloir rhodanien, par le seuil de Bourgogne, est un contact naturel entre le Nord de l’Europe et la Méditerranée. Il ouvre également, par la porte d’Alsace, vers l’est de l’Europe. Le seuil du Lauragais, au sud-est, relie la façade méditerranéenne à la façade atlantique (canal du Midi). La France est donc un territoire largement ouvert tant sur le continent que sur l’océan avec 5 000 km de côtes. L’équipement en matière de transport (autoroute, trains, TGV) et de ports reflète aussi cette ouverture.",
+    "latitude": 48.93897,
+    "longitude": 2.538716,
+    "quizz": [
+      {
+        "question": "Quel est la hauteur du Mont-Blanc ? (en mètres)",
+        "answer": "4807",
+        "answerPrint": "Le Mont-Blanc fait une taille de 4807 mètres."
+      },
+      {
+        "question": "Vrai ou Faux. Les Alpes font parties des massifs hercyniens d’Europe du Nord.",
+        "answer": "Faux",
+        "answerPrint": "Faux, les Alpes font parties des chaînes de montagnes récentes."
+      },
+      {
+        "question": "Complétez : De manière générale, le relief de la France est …",
+        "answer": "élevé",
+        "answerPrint": "De manière générale, le relief de la France est élevé."
+      },
+      {
+        "question": "Combien de kilomètres de côtes la France possède-t-elle ?",
+        "answer": "5000",
+        "answerPrint": "La France possède 5000 km de littoral."
+      },
+      {
+        "question": "Quel fleuve est un contact naturel entre le Nord de l’Europe et la Méditerranée ?",
+        "answer": "Le Couloir rhodanien",
+        "answerPrint": "Le Couloir rhodanien est un contact naturel entre le Nord de l’Europe et la Méditerranée."
+      },
+      {
+        "question": "Complétez. “ Le seuil du Lauragais, au sud-est, relie la façade méditerranéenne à la …”",
+        "answer": "Façade atlantique",
+        "answerPrint": "Le seuil du Lauragais, au sud-est, relie la façade méditerranéenne à la façade Atlantique"
+      },
+      {
+        "question": "Le Jura fait partie des chaînes de montagnes récentes ? (Vrai ou faux)",
+        "answer": "Vrai",
+        "answerPrint": "Le Jura fait bien partie des chaînes de montagnes récentes."
+      },
+      {
+        "question": "Dans la leçon, nous avons vu que certaines cultures ont laissé et laissent encore leur empreinte culturelle dont la langue n’est qu’un exemple. Ces cultures sont les catalans, les alsaciens et les …",
+        "answer": "bretons",
+        "answerPrint": "Dans la leçon, nous avons vu que certaines cultures ont laissé et laissent encore leur empreinte culturelle dont la langue n’est qu’un exemple. Ces cultures sont les catalans, les alsaciens et les bretons."
+      },
+      {
+        "question": "Quelle partie de la France est caractérisée par de faibles altitudes, constituée de plaines, de bassins sédimentaires et de plateaux ?",
+        "answer": "Le Nord-Ouest",
+        "answerPrint": "Le Nord-Ouest de la France est caractérisé par de faibles altitudes, constitué de plaines, de bassins sédimentaires et de plateaux"
+      },
+      {
+        "question": "Complétez : “L’équipement en matière de transport (autoroute, trains, ...) et de ports reflète aussi cette ouverture.”",
+        "answer": "TGV",
+        "answerPrint": "L’équipement en matière de transport (autoroute, trains, tgv) et de ports reflète aussi cette ouverture."
+      }
+    ]
+  }
+]
+
