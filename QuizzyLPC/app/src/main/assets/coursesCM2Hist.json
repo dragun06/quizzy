@@ -1,0 +1,254 @@
+[
+  {
+    "id": 300,
+    "image1": "cm2_hist_cours1_republique",
+    "image2": "cm2_hist_cours1_ecole_valeurs",
+    "title": "La république et la démocratie",
+    "paragraph1": "La République française est une forme de démocratie libérale. La démocratie libérale moderne associe l’idée de souveraineté nationale, l’affirmation des libertés individuelles et la volonté de solidarité sociale. Ce qui singularise la République française est, outre bien sûr l’absence de monarque commune à toutes les républiques, un rôle particulièrement important attribué à l’État, qui cherche à la fois à garantir l’émancipation individuelle et à souder un pays historiquement très divisé autour des valeurs de 1789.",
+    "paragraph2": "Les institutions ont varié au cours de l’histoire républicaine : celles de la Troisième République et de la Quatrième République ont des différences, tandis que celles de la Cinquième République ont donné à l’exécutif un poids considérable. Mais le projet républicain perdure et l’école en est au cœur : en témoigne par exemple l’article L 111-1 du code de l’Éducation, qui affirme : « Outre la transmission des connaissances, la Nation fixe comme mission première à l’école de faire partager aux élèves les valeurs de la République. Le service public de l’éducation fait acquérir à tous les élèves le respect de l’égale dignité des êtres humains, de la liberté de conscience et de la laïcité ».",
+    "paragraph3": "La liste des valeurs s’est elle aussi enrichie, à partir des trois items de la devise « liberté, égalité, fraternité » (adoptée en 1848, inscrite au fronton des bâtiments publics à partir de 1880, fixée par les constitutions de 1946 et 1958), pour être établie ainsi dans le programme d’enseignement moral et civique : « Ces valeurs sont la liberté, l’égalité, la fraternité, la laïcité, la solidarité, l’esprit de justice, le respect et l’absence de toutes formes de discriminations ». C’est au fil du XXe siècle que se sont affirmés les droits sociaux et l’égalité des sexes. Le projet républicain a donc une dimension évolutive.",
+    "latitude": 48.866667,
+    "longitude": 2.333333,
+    "quizz": [
+      {
+        "question": "La République française est une forme de quoi ?",
+        "answer": "Démocratie libérale",
+        "answerPrint": "La République française est une forme de Démocratie libérale"
+      },
+      {
+        "question": "Qu’est ce qui singularise la République Française ?",
+        "answer": "L’absence de monarque",
+        "answerPrint": "La République française est singularisée par l'absence d'un monarque"
+      },
+      {
+        "question": "Quelles sont les 3 valeurs adoptées en 1848 ?",
+        "answer": "liberté, égalité, fraternité",
+        "answerPrint": "Les valeurs adoptées en 1848, encore en vigueur à ce jour sont 'Liberté, Egalité, Fraternité'"
+      },
+      {
+        "question": "Depuis quand ces valeurs sont-elles inscrites au fronton des bâtiments publics ?",
+        "answer": "1880",
+        "answerPrint": "Nous pouvons voir ces valeurs inscrites sur tout édifice public depuis 1880"
+      },
+      {
+        "question": "Durant quel siècle sont affirmés les droits sociaux et l’égalité des sexes ?",
+        "answer": "XX",
+        "answerPrint": "Les droits sociaux et l’égalité des sexes sont affirmés durant le XXème siècle"
+      },
+      {
+        "question": "La cinquième République donne un poids considérable à un pouvoir. Lequel ?",
+        "answer": "Le pouvoir exécutif",
+        "answerPrint": "La cinquième république permet au pouvoir éxécutif d'être plus important."
+      },
+      {
+        "question": "Qu’est ce qui est au coeur du projet républicain ?",
+        "answer": "L’école",
+        "answerPrint": "L'école est au coeur du projet républicain."
+      },
+      {
+        "question": "Quel est la mission principale à l’école ?",
+        "answer": "Faire partager les valeurs de la République",
+        "answerPrint": "La mission principale à l’école est de faire partager les valeurs de la République"
+      },
+      {
+        "question": "Quelle est la dimension du projet républicain ?",
+        "answer": "Évolutive",
+        "answerPrint": "La dimension du projet républicain est évolutive"
+      },
+      {
+        "question": "En quelle année ont été promulguées les constitutions ?",
+        "answer": "1946 et 1958",
+        "answerPrint": "1946 et 1958 sont les années durant lesquelles ont été promulguées les constitutions"
+      }
+    ]
+  },
+  {
+    "id": 301,
+    "image1": "cm2_hist_cours2_chemin_de_fer",
+    "image2": "cm2_hist_cours2_mines",
+    "title": "Industrialisation",
+    "paragraph1": "Le charbon est l’énergie de la première vague d’industrialisation, quand bien même son usage demeure important ensuite ; l’électricité et le pétrole sont au cœur de la seconde vague d’industrialisation après 1880. La mécanisation permet d’améliorer la productivité et amène à progressivement concentrer le travail dans les usines.",
+    "paragraph2": "Elle touche le travail industriel, mais aussi les moyens de transports : le chemin de fer qui commence à se développer en France sous la monarchie de Juillet, avec un véritable réseau national qui se met en place sous le Second Empire, et un réseau secondaire qui se développe sous la Troisième République avec le « plan Freycinet ».",
+    "paragraph3": "Le transport maritime est aussi révolutionné par la machine à vapeur : le premier navire français de ce type, le Sphinx, remorque le bateau qui transporte d’Égypte en France le célèbre obélisque de la place de la Concorde, à Paris. La France est pionnière et leader de l’industrie automobile avant 1914. L’agriculture est elle-même touchée par la mécanisation, surtout à partir de la Première Guerre mondiale.",
+    "latitude": 50.42893,
+    "longitude": 2.83183,
+    "quizz": [
+      {
+        "question": "Quel est l’énergie de la première vague d’industrialisation ?",
+        "answer": "Charbon",
+        "answerPrint": "L'énergie principalement utilisé lors de la première vague d’industrialisation est le charbon"
+      },
+      {
+        "question": "Quelles ressources sont au cœur de la seconde vague d’industrialisation ?",
+        "answer": "L’électricité et le pétrole",
+        "answerPrint": "L’électricité et le pétrole sont les ressources sont au cœur de la seconde vague d’industrialisation"
+      },
+      {
+        "question": "Quand a eu lieu la seconde vague d’industrialisation ?",
+        "answer": "Après 1880",
+        "answerPrint": "La seconde vague d’industrialisation eût lieu après 1880"
+      },
+      {
+        "question": "Qu’est ce qui permet d’améliorer la productivité et amène à progressivement concentrer le travail dans les usines ?",
+        "answer": "La mécanisation",
+        "answerPrint": "La mécanisation est ce qui a permis d’améliorer la productivité et amène à progressivement concentrer le travail dans les usines."
+      },
+      {
+        "question": "Sous quelle régime le chemin de fer commence-t-il à se développer ?",
+        "answer": "La monarchie de Juillet",
+        "answerPrint": "C'est sous la monarchie de Juillet que commença à se développer les chemins de fer"
+      },
+      {
+        "question": "Sous quel empire un véritable réseau national de chemin de fer a-t-il été mis en place ?",
+        "answer": "Le second empire",
+        "answerPrint": "Sous le second empire, on vît enfin apparaître un véritable réseau national de chemin de fer."
+      },
+      {
+        "question": "Comment se nomme le plan sous lequel est développé un réseau secondaire de chemin de fer ?",
+        "answer": "Plan Freycinet",
+        "answerPrint": "Le plan sous lequel est développé un réseau secondaire de chemin de fer est appelé plan Freycinet"
+      },
+      {
+        "question": "Quelle invention va révolutionner le transport maritime ?",
+        "answer": "La machine à vapeur",
+        "answerPrint": "La machine à vapeur est l'invention qui va révolutionner le transport maritime"
+      },
+      {
+        "question": "Comment se nomme le 1er navire français de ce type ?",
+        "answer": "Le Sphinx",
+        "answerPrint": "Le Sphinx est le 1er navire français de ce type"
+      },
+      {
+        "question": "Avant 1914, la France est pionnière de quelle industrie ?",
+        "answer": "L’industrie automobile",
+        "answerPrint": "La France est pionnière de l'industrie automobile"
+      }
+    ]
+  },
+  {
+    "id": 302,
+    "image1": "cm2_hist_cours3_guerre",
+    "image2": "cm2_hist_cours3_deportement",
+    "title": "Les guerres mondiales",
+    "paragraph1": "« L’ampleur des deux conflits » comme leur violence sont manifestes, dès lors que l’on regarde les chiffres. La Première Guerre mondiale a fait 18,6 millions de morts, dont 9,7 millions de morts militaires et 8,9 millions de morts civils. La Seconde Guerre mondiale 62 millions de morts, dont 25 millions de morts militaires et 37 millions de morts civils. Les deux conflits ont concerné tous les continents. La Seconde Guerre mondiale amplifie certains phénomènes présents dans la Première. Le génocide arménien, qui commence en 1915, conduit à la mort d’environ 1,2 millions de personnes de 1915 à 1923, soit 2/3 des Arméniens présents dans l’empire Ottoman. Le génocide juif, qui commence en 1942, conduit à l’assassinat de 5,1 à 6 millions de personnes, soit les 2/3 des juifs d’Europe. Il s’accompagne du génocide tzigane (195 000 à 220 000 morts). Les bombardements sont bien plus massifs et meurtriers dans le second conflit mondial, et les victimes civiles dépassent les victimes militaires.",
+    "paragraph2": "La France est partie prenante des deux conflits, aux côtés de ses alliés : l’Allemagne lui déclare la guerre le 3 août 1914, elle déclare la guerre à l’Allemagne le 3 septembre 1939. Mais l’implication dans la suite du conflit n’est pas de même nature. Elle est un acteur essentiel du premier conflit mondial, et l’ensemble de la société est mobilisé dans l’effort de guerre. Avec près d’1,4 millions de morts militaires elle est, après la Serbie, le pays dont proportionnellement, le plus de combattants sont morts, et elle fournit la part la plus importante de l’effort militaire.",
+    "paragraph3": "Le Front occidental est dans son territoire. L’effondrement militaire de mai-juin 1940 entraîne la mise en place du régime de Vichy qui choisit la collaboration avec l’occupant allemand. Pour autant, la Résistance s’organise autour de l’action de Charles de Gaulle qui unit celle-ci dans « la France Libre ». Les morts militaires sont environ 200 000, tandis que les morts civils sont environ 400 000. 75 000 juifs, français et étrangers, ont été déportés, la plupart vers Auschwitz. Seuls environ 3 000 ont survécu. 60 000 Français ont péri dans les bombardements.",
+    "latitude": 48.5734053,
+    "longitude": 7.7521113,
+    "quizz": [
+      {
+        "question": "Combien de personnes sont mortes durant la 1ère guerre mondiale ?",
+        "answer": "18,6 millions",
+        "answerPrint": "18,6 millions de personnes ont péri durant la première guerre mondiale"
+      },
+      {
+        "question": "Combien de personnes sont mortes durant la 2nd guerre mondiale ?",
+        "answer": "62 millions",
+        "answerPrint": "62 millions de personnes ont perdu la vie durant le seconde guerre mondiale."
+      },
+      {
+        "question": "En quelle année a commencé le genocide arménien ?",
+        "answer": "1915",
+        "answerPrint": "Le génocide arménien a commencé en 1915."
+      },
+      {
+        "question": "Pendant combien de temps cet événement s’est déroulé ?",
+        "answer": "9 ans",
+        "answerPrint": "Le génocide arménien a duré environ 9 années"
+      },
+      {
+        "question": "Quel événement a débuté en 1942 ?",
+        "answer": "Le genocide juif",
+        "answerPrint": "Le genocide juif a démarré en 1942."
+      },
+      {
+        "question": "À quelle date l’Allemagne a déclaré la première guerre ?",
+        "answer": "3 août 1914",
+        "answerPrint": "C'est à la date du 3 août 1914 que l'Allemagne déclara la première guerre."
+      },
+      {
+        "question": "À quelle date l’Allemagne a déclaré la seconde guerre ?",
+        "answer": "3 septembre 1939",
+        "answerPrint": "L'allemagne déclara la seconde guerre le 3 septembre 1939."
+      },
+      {
+        "question": "Qu’entraîne l’effondrement militaire de mai-juin 1940 ?",
+        "answer": "Le régime de Vichy",
+        "answerPrint": "L’effondrement militaire de mai-juin 1940 en France entraîna le début du régime de Vichy"
+      },
+      {
+        "question": "La résistance s’est réuni autour de l’action d’un homme. Qui est-il ?",
+        "answer": "Charles de Gaulle",
+        "answerPrint": "La Résistence s'organisa autour du général Charles de Gaulle"
+      },
+      {
+        "question": "Vers quel lieu sont principalement déportés 75000 personnes ?",
+        "answer": "Auschwitz",
+        "answerPrint": "C'est au camp de concentration d'Auschwitz que sont déportées environ 75000 personnes."
+      }
+    ]
+  },
+  {
+    "id": 303,
+    "image1": "cm2_hist_cours4_ceca",
+    "image2": "cm2_hist_cours4_onu",
+    "title": "Construction européenne",
+    "paragraph1": "Après le profond traumatisme provoqué dans le monde entier par l’ampleur des désastres et des crimes commis, la conception d’une éthique universelle se développe ; l’Organisation des Nations Unies, fondée en 1945, adopte le 9 décembre 1948 la Convention pour la prévention et répression du crime de Génocide et le 10 décembre 1948 la Déclaration Universelle des Droits de l’Homme.",
+    "paragraph2": "Les droits de l’Homme sont d’ailleurs au fondement de la construction européenne. Le contexte de la guerre froide rend encore plus urgente la réconciliation franco-allemande : la Communauté Européenne du Charbon et de l’Acier (CECA) qui regroupe en 1951 la France, la République Fédérale Allemande, l’Italie et le Benelux permet de régler le différend franco allemand sur la Sarre. Une dynamique est lancée qui, malgré l’échec de la Communauté Européenne de Défense, enterrée en 1954, aboutit à la création du Traité de Rome fondant le Marché commun (1957). ",
+    "paragraph3": "Un espace de paix et de coopération économique existe désormais, qui s’élargit à partir des années 1970. Devenu en 1992 l’Union européenne (UE) par le traité de Maastricht, il connaît des mouvements centripètes et centrifuges : l’Euro est mis en place comme monnaie fiduciaire en 2002, dans la majorité des pays, mais l’UE ne parvient pas à se doter d’une constitution commune en 2005 et le Royaume-Uni, entré en 1973, choisit de s’en retirer en 2016.",
+    "latitude": 50.850340,
+    "longitude": 4.351710,
+    "quizz": [
+      {
+        "question": "En quelle année est fondée l’ONU ?",
+        "answer": "1945",
+        "answerPrint": "L'ONU fût fondé en 1945, juste après la seconde guerre mondiale."
+      },
+      {
+        "question": "A quel date a été la adoptée Convention pour la prévention et répression du crime de Génocide ?",
+        "answer": "9 décembre 1948",
+        "answerPrint": "C'est le 9 décembre 1948 que la Convention pour la prévention et répression du crime de Génocide fût adoptée"
+      },
+      {
+        "question": "Quel texte a été adopté le 10 décembre 1948 ?",
+        "answer": "La Déclaration Universelle des Droits de l’Homme",
+        "answerPrint": "La Déclaration Universelle des Droits de l’Homme est adopté à l'ONU le 10 décembre 1948"
+      },
+      {
+        "question": "Donnez le nom complet de la CECA ?",
+        "answer": "Communauté Européenne du Charbon et de l’Acier",
+        "answerPrint": "Communauté Européenne du Charbon et de l’Acier"
+      },
+      {
+        "question": "Quels pays/regroupement de pays compose le CECA ?",
+        "answer": "La France, la République Fédérale Allemande, l’Italie et le Benelux",
+        "answerPrint": "La France, la République Fédérale Allemande, l’Italie et le Benelux sont les pays/groupes d'Etats faisant partie du CECA à ses débuts"
+      },
+      {
+        "question": "En quelle année a été créé le traité de Rome ?",
+        "answer": "1957",
+        "answerPrint": "Le traité de Rome fût signé en 1957."
+      },
+      {
+        "question": "Quand la CECA est devenu l’Union Européenne ?",
+        "answer": "1992",
+        "answerPrint": "En 1992 la CECA devînt l'Union Européenne (UE)"
+      },
+      {
+        "question": "Avec quel traité cela a-t-il pu se passer ?",
+        "answer": "Traité de Maastricht",
+        "answerPrint": "L'Union Européenne fût créée grâce au Traité de Maastricht."
+      },
+      {
+        "question": "En quelle année l’euro a été mis en place ?",
+        "answer": "2002",
+        "answerPrint": "La monnaie de l'Euro fût instaurée en 2002"
+      },
+      {
+        "question": "Quel pays s’est retiré de l’UE en 2016 ?",
+        "answer": "Le Royaume-Uni",
+        "answerPrint": "En 2016, le Royaume-Uni se retira de l'UE, on appelera ça le Brexit."
+      }
+    ]
+  }
+]

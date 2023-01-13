@@ -1,0 +1,255 @@
+[
+  {
+    "id": 0,
+    "image1": "cm1_geo_cours1_paris",
+    "image2": "cm1_geo_cours1_tourisme",
+    "title": "Le tourisme en France",
+    "paragraph1": "Le tourisme est le fait de voyager hors de chez soi pour son plaisir. Cela comprend les activités liées à l'hébergement (hôtels, restaurants) et aux vacances (stations de ski, station balnéaire).La France est le pays le plus visité au monde avec 85 millions de visiteurs par an. Le tourisme est donc un secteur très important en France.",
+    "paragraph2": "La variété des paysages qu’on trouve en France et la richesse historique et culturelle du pays expliquent en grande partie l’importance du tourisme dans ce pays. Ce tourisme prend des formes très variées :le tourisme balnéaire en été (sur la Méditerranée, dans le sud-ouest atlantique, en Bretagne et Normandie), le tourisme de montagne, surtout en hiver (la France est la 2e destination mondiale pour le ski), le tourisme culturel (Paris, Versailles, les châteaux de la Loire, le Mont Saint-Michel, Lourdes, attirent des touristes du monde entier),le tourisme « vert », qui vise notamment à privilégier un tourisme respectueux de la nature qui se développe surtout depuis le début des années 2000 (dans le sud-ouest, notamment).",
+    "paragraph3": "Le secteur du tourisme joue un rôle important dans le développement économique car les touristes dépensent et font gagner de l'argent à l'État. De plus, cela permet de créer beaucoup d'emplois (plus d'1,3 million de personnes en France travaillent dans le tourisme) grâce aux nombreuses activités (restaurants, hôtels, musées, théâtre, etc.). L’État, les régions, les départements et/ou les communes essaient d'attirer de touristes (= attractivité) en améliorant les réseaux de transports (TGV Lyon-Turin, Eurostar, Thalys, par exemple), en protégeant les espaces naturels (parcs naturels, hébergements « verts » type gîtes ruraux) et en créant des équipements de loisir (parcs d’attraction, musées, etc).",
+    "latitude": 43.7101728,
+    "longitude": 7.2619532,
+    "quizz": [
+      {
+        "question": "Combien de personnes visitent la France chaque année ?",
+        "answer": "85 millions",
+        "answerPrint": "Le nombre de personne visitant la France chaque année s'élève à 85 millions."
+      },
+      {
+        "question": "Le fait de voyager hors de chez soi pour son plaisir. De quoi s’agit-il ?",
+        "answer": "Le tourisme",
+        "answerPrint": "Le fait de voyager hors de chez soi pour son plaisir s'appelle le tourisme."
+      },
+      {
+        "question": "Pourquoi la France est un pays très visité ?",
+        "answer": " Pour la variété des paysages, la richesse historique et culturelle.",
+        "answerPrint": "La France est un pays très visité car elle est réputé pour sa variété des paysages, sa richesse historique et culturelle."
+      },
+      {
+        "question": "Quels sont les différents types de tourisme ?",
+        "answer": "Le tourisme balnéaire, le tourisme de montagne, le tourisme culturel et le tourisme 'vert'",
+        "answerPrint": "Le tourisme balnéaire, le tourisme de montagne, le tourisme culturel et le tourisme 'vert' sont des différents types de tourisme"
+      },
+      {
+        "question": "Qu’est ce que le tourisme 'vert' ?",
+        "answer": "Le tourisme 'vert' vise à privilégier le respect de la nature, environnement.",
+        "answerPrint": "Le tourisme 'vert' vise à privilégier le respect de la nature, environnement."
+      },
+      {
+        "question": "Quand ce tourisme a-t-il commencé à être développé ?",
+        "answer": "Début des années 2000",
+        "answerPrint": "Le tourisme 'vert' commença être développé à partir du début des années 2000"
+      },
+      {
+        "question": "Combien d'emplois le secteur du tourisme a-t-il créé ?",
+        "answer": "Plus d’1,3 million",
+        "answerPrint": "Grâce au secteur du tourisme, plus d’1,3 million d'emplois ont pu être crées"
+      },
+      {
+        "question": "Comment la France fait-elle pour attirer des touristes ?",
+        "answer": "En améliorant les réseaux de transports, en protégeant les espaces naturels et en créant des équipements de loisir. ",
+        "answerPrint": "La France arrive à attirer des touristes en améliorant les réseaux de transports, en protégeant les espaces naturels et en créant des équipements de loisir. "
+      },
+      {
+        "question": "Dans quel développement le secteur tourisme joue-t-il un rôle important ?",
+        "answer": "Dans le développement économique",
+        "answerPrint": "Le secteur du toursime joue un rôle capital dans le développement économique."
+      },
+      {
+        "question": "Comment appelle-t-on le fait de vouloir attirer des touristes ?",
+        "answer": "L'attractivité",
+        "answerPrint": "L'attractivité est le fait de vouloir attirer des touristes."
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "image1": "cm1_geo_cours2_map",
+    "image2": "cm1_geo_cours2_onu",
+    "title": "Les principaux états",
+    "paragraph1": "Les Etats du monde :  Près de 200 pays se partagent l’ensemble des terres.Les pays aujourd’hui sont presque tous des Etats indépendants.Un Etat est un territoire délimité par une frontière. Son gouvernement gère les affaires de sa population sur son territoire. Il a aussi sa capitale, son drapeau et son hymne national.",
+    "paragraph2": "Les pays les plus étendus : Aucun Etat n’occupe tout un continent, mais certains d’entre eux sont très vastes : la Russie : 17 millions de km2, le Canada : 10 millions de km2, la Chine : 9,6 millions de km2, les Etats-Unis : 9,3 millions de km2, le Brésil : 8,5 millions de km2, l’Australie : 7,7 millions de km2, l’Inde : 3,3 millions de km2, l’Argentine : 2,8 millions de km2.",
+    "paragraph3": "Les liens entre les Etats : Au cours des dernières années du XXe siècle, certains peuples ont voulu avoir leur propre Etat. Cela a entraîné des changements de frontières et donc l’apparition de nouveaux Etats. Quand un Etat est reconnu par tous les Etats du monde, il devient membre de l’Organisation des Nations Unies (O.N.U.).En 2000, 186 Etats appartiennent à l’O.N.U. Le rôle essentiel de cette organisation est de maintenir la paix dans le monde. Mais elle mène aussi des actions pour aider au développement des pays les plus pauvres.",
+    "latitude": 50.850340,
+    "longitude": 4.351710,
+    "quizz": [
+      {
+        "question": "Près de combien de pays se partagent l’ensemble des terres ?",
+        "answer": "200",
+        "answerPrint": "Près de 200 pays de partagent l'ensemble des terres dans le Monde"
+      },
+      {
+        "question": "Comment appelle-t-on plus communément un territoire délimité par une frontière ?",
+        "answer": "Un état",
+        "answerPrint": "Un état est un territoire délimité par une frontière."
+      },
+      {
+        "question": "Il gère les affaires de sa population sur son territoire. De quoi s’agit-il ?",
+        "answer": "Le gouvernement",
+        "answerPrint": "Le gouvernement est l'organisme qui gère les affaires de la population sur un territoire."
+      },
+      {
+        "question": "Complétez. Chaque pays est composé d’une capitale, un drapeau et …",
+        "answer": "Un hymne national",
+        "answerPrint": "Complétez. Chaque pays est composé d’une capitale, un drapeau et un hymne national"
+      },
+      {
+        "question": "Quel est le pays le plus vaste du monde ?",
+        "answer": "La Russie",
+        "answerPrint": "La Russie est le pays le plus vaste du monde."
+      },
+      {
+        "question": "Quelle est la superficie de l’Argentine ? (en km²)",
+        "answer": "2,8 millions",
+        "answerPrint": "L'Argentine possède une surface de 2,8 millions km²."
+      },
+      {
+        "question": "Donnez le nom complet de l’O.N.U.",
+        "answer": "Organisation des Nations Unies",
+        "answerPrint": "Organisation des Nations Unies"
+      },
+      {
+        "question": "Il existe un État qui occupe tout un continent. (Vrai ou faux)",
+        "answer": "Faux",
+        "answerPrint": "Faux, aucun état n'occupe un continent entier."
+      },
+      {
+        "question": "Complétez cette phrase de la leçon. “Les pays aujourd’hui sont presque tous des États …”",
+        "answer": "indépendants",
+        "answerPrint": "Les pays aujourd’hui sont presque tous des États indépendants"
+      },
+      {
+        "question": "Combien de pays appartiennent à l’O.N.U. en 2000 ?",
+        "answer": "186",
+        "answerPrint": "186 pays font parties de l'O.N.U. en 2000"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "image1": "cm1_geo_cours3_banquise",
+    "image2": "cm1_geo_cours3_groenland",
+    "title": "Les climats froids",
+    "paragraph1": "Les régions les plus froides de la Terre sont situées entre les pôles et les cercles polaires. Sur les terres qui entourent l’océan glacial arctique, les températures descendent souvent au-dessous de –40°C en hiver et peuvent atteindre 10°C en été. ",
+    "paragraph2": "Dans l’hémisphère nord, le domaine arctique est constitué par l’océan glacial arctique, les extrémités de l’Amérique, de l’Eurasie et d’îles comme le Groenland. L’océan glacial est en partie recouvert par la banquise. En été, des icebergs s’en détachent. L’intérieur du Groenland est recouvert d’une énorme couche de glace qui ne fond jamais : l’inlandsis. Les hommes ne peuvent y vivre car il y fait trop froid. La toundra réussit à pousser en été dans les régions côtières de l’Arctique (Sibérie, Amérique du nord, Groenland). C'est une vaste prairie clairsemée, on y trouve essentiellement des mousses et des lichens. Les rennes, les élans et les caribous s’en nourrissent. C’est là que vivent les quelques milliers d’hommes de ces régions.",
+    "paragraph3": "Dans l’hémisphère sud, le domaine antarctique est constitué du continent Antarctique et de l’océan Austral. L’Antarctique est formé de montagnes recouvertes de 3 000 mètres de glace. Les températures peuvent atteindre -90°C en hiver. Elles sont insupportables lorsqu’elles sont accompagnées du blizzard, c'est-à-dire d'une tempête de neige prolongée. La glace ne fondant jamais, aucune végétation ne peut se développer. L’Antarctique est un continent inhabité : seules quelques stations de recherche scientifique abritent des hommes qui viennent étudier ces régions.",
+    "latitude": 69.6354163,
+    "longitude": -42.1736914,
+    "quizz": [
+      {
+        "question": "Complétez. Les régions les plus froides de la Terre sont situées entre les pôles et …",
+        "answer": "Les cercles polaires",
+        "answerPrint": "Les régions les plus froides de la Terre sont situées entre les pôles et les cercles polaires."
+      },
+      {
+        "question": "En dessous de quelle température sont les terres qui entourent l’océan glacial arctique en hiver ?",
+        "answer": "-40°C",
+        "answerPrint": "On peut atteindre une température de -40°C sur les terres qui entourent l'océan glacial arctique."
+      },
+      {
+        "question": "Jusqu’à quelle température les terres qui entourent l’océan glacial arctique peuvent-elles monter en été ?",
+        "answer": "10°C",
+        "answerPrint": "En été, les températures de ces terres peuvent monter jusqu'à 10°C"
+      },
+      {
+        "question": "Quel océan se trouve dans l’hémisphère nord ?",
+        "answer": "L’océan glacial arctique",
+        "answerPrint": "L’océan glacial arctique se trouve dans l'hémisphère Nord."
+      },
+      {
+        "question": "Quel océan se trouve dans l’hémisphère sud ?",
+        "answer": "L’océan Austral",
+        "answerPrint": "Dans l'hémisphère Sud, on peut retrouver l'océan Austral."
+      },
+      {
+        "question": "Des gens peuvent vivre au Groenland malgré les basses températures. Vrai ou faux ?",
+        "answer": "Faux",
+        "answerPrint": "Faux, personne ne peut vivre la-bas avec de basses températures."
+      },
+      {
+        "question": "L’Antarctique est formé de montagnes. Par combien de mètres de neige ces dernières sont-elles recouvertes ?",
+        "answer": "3000",
+        "answerPrint": "Les montagnes formant l'Antarctique sont recouverts de 3000 mètres de neige."
+      },
+      {
+        "question": "Quelle est la température que l’on peut atteindre en Antarctique ?",
+        "answer": "-90°C",
+        "answerPrint": "En Antarctique, on peut atteindre -90°C"
+      },
+      {
+        "question": "En Antarctique, la glace ne fond jamais et aucune végétation ne peut se développer. Vrai ou Faux",
+        "answer": "Vrai",
+        "answerPrint": "C'est vrai, en Antarctique, la glace ne fond jamais et aucune végétation ne peut s'y développer."
+      },
+      {
+        "question": "De quoi se nourrissent les rennes, les élans et les caribous dans l’hémisphère nord ?",
+        "answer": "de mousses et de lichens",
+        "answerPrint": "Dans l’hémisphère nord, les rennes, les élans et les caribous se noursissent de mousses et de lichens"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "image1": "cm1_geo_cours4_airbus",
+    "image2": "cm1_geo_cours4_industrie",
+    "title": "Les activités industrielles ",
+    "paragraph1": "La France, une grande puissance industrielle : L’industrie française est la quatrième du monde. La taille des entreprises industrielles varie, de la petite et moyenne entreprise (les PME) à l’entreprise multinationale qui possède des usines dans plusieurs pays (comme Renault). Les produits sont fabriqués en série dans les usines. Les ¾ des industries se trouvent dans la moitié nord et est de la France. L’Ile-de-France concentre le quart de la production industrielle. L’ouest et le sud attirent de nouvelles entreprises, comme Airbus à Toulouse, pour l'industrie aérospatiale.",
+    "paragraph2": "Les grandes régions industrielles : L’Ile-de-France et la région Auvergne-Rhône-Alpes sont les 2 principales régions industrielles du pays. Le Nord et l’Est avaient fondé leur prospérité sur le charbon, la sidérurgie (l’industrie de la fonte et de l’acier) et le textile. Avec l’abandon du charbon, de la sidérurgie et la concurrence des pays où la main-d’œuvre est moins chère, ces activités industrielles ont cessé, ce qui a provoqué une crise économique (chômage) très importante.",
+    "paragraph3": "Les nouvelles industries : Les industries de haute technologie (électronique, informatique, avion, médicaments) se concentrent dans des technopôles. Un technopôle est un ensemble d’activités proches d’une grande ville, associant la recherche (universités et laboratoires) et les entreprises. Ils sont installés dans des régions qui présentent un environnement agréable. 13 technopôles se trouvent dans le midi de la France.",
+    "latitude": 48.856614,
+    "longitude": 2.3522219,
+    "quizz": [
+      {
+        "question": "A quelle place est classée l’industrie française dans le Monde ? ",
+        "answer": "Quatrième",
+        "answerPrint": "L'industrie française est clasée au quatrième rang mondial."
+      },
+      {
+        "question": "Quel est le nom complet de PME ?",
+        "answer": "Petite et moyenne entreprise",
+        "answerPrint": "PME signifie Petite et moyenne entreprise"
+      },
+      {
+        "question": "Citez l’exemple d’entreprise multinationale en France que l’on a vu dans la leçon.",
+        "answer": "Renault",
+        "answerPrint": "Dans la leçon, nous avons pu voir Renault comme exemple."
+      },
+      {
+        "question": "Quelle région concentre le quart de la production industrielle ?",
+        "answer": "L’Ile-de-France",
+        "answerPrint": "En France le quart de la production industrielle se concentre en Ile-de-France."
+      },
+      {
+        "question": "Où se concentrent les industries de haute technologie (électronique, informatique, avion, médicaments) ?",
+        "answer": "Une technopôle",
+        "answerPrint": "C'est dans une technopôle que se concentrent les industries de haute technologie."
+      },
+      {
+        "question": "Complétez. “Le Nord et l’Est avaient fondé leur prospérité sur le charbon, la sidérurgie (l’industrie de la fonte et de l’acier) et …”",
+        "answer": "Le textile",
+        "answerPrint": "Le Nord et l’Est avaient fondé leur prospérité sur le charbon, la sidérurgie (l’industrie de la fonte et de l’acier) et le textile"
+      },
+      {
+        "question": "Vrai ou faux. Malgré l’abandon du charbon, de la sidérurgie et la concurrence des pays où la main-d’œuvre est moins chère, et le fait que ces activités industrielles ont cessé, il n’y a pas eu de crise économique",
+        "answer": "Faux",
+        "answerPrint": "Avec ces abandons et la concurence de la main d'oeuvre, il y a bien eu une crise économique"
+      },
+      {
+        "question": "Comment sont fabriqués les produits dans les usines ?",
+        "answer": "En série",
+        "answerPrint": "Les produits, dans les usines, sont fabriqués en série."
+      },
+      {
+        "question": "Quel est le pourcentage des industries se trouvant dans la moitié nord et est de la France ?",
+        "answer": "75% des industries se trouvent dans la moitié nord et est de la France",
+        "answerPrint": "75% "
+      },
+      {
+        "question": "Combien de technopôles se trouvent dans le midi de la France ?",
+        "answer": "13",
+        "answerPrint": "Il y a 13 technopôles se trouvant dans le midi de la France"
+      }
+    ]
+  }
+]
+

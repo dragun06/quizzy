@@ -3,16 +3,108 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
+
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello World!"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+    <!--  -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <!-- Affiche du Logo -->
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="300dp"
+            android:layout_height="300dp"
+            app:srcCompat="@drawable/quizzy"
+            android:layout_gravity="center"
+            />
 
+        <TextView
+            android:id="@+id/textView_CM1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="56dp"
+            android:text="CM1"
+            android:textAlignment="center"
+            android:textColor="@color/clear_blue"
+            android:textSize="16sp" />
+
+        <LinearLayout
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shape_corner"
+            android:orientation="vertical"
+            android:paddingHorizontal="150px"
+            android:layout_gravity="center">
+
+            <Button
+                android:id="@+id/button_histoire_CM1"
+                android:layout_width="370px"
+                android:layout_height="150px"
+                android:layout_gravity="center"
+                android:backgroundTint="@color/clear_blue"
+                android:onClick="onClickHistoireCM1"
+                android:text="Histoire"
+                app:cornerRadius="200px" />
+
+            <Button
+                android:id="@+id/button_geographie_CM1"
+                android:layout_width="370px"
+                android:layout_height="150px"
+                android:layout_gravity="center"
+                android:backgroundTint="@color/clear_blue"
+                android:onClick="onClickGeographieCM1"
+                android:text="Geographie"
+                app:cornerRadius="200px" />
+
+        </LinearLayout>
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="20dp" />
+
+        <TextView
+            android:id="@+id/textView_CM2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="56dp"
+            android:text="CM2"
+            android:textAlignment="center"
+            android:textColor="@color/dark_blue"
+            android:textSize="16sp" />
+
+        <LinearLayout
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shape_corner_cm2"
+            android:orientation="vertical"
+            android:paddingHorizontal="150px"
+            android:layout_gravity="center"
+            >
+
+            <Button
+                android:id="@+id/button_histoire_CM2"
+                android:layout_width="370px"
+                android:layout_height="150px"
+                android:layout_gravity="center"
+                android:backgroundTint="@color/dark_blue"
+                android:onClick="onClickHistoireCM2"
+                android:text="Histoire"
+                app:cornerRadius="200px" />
+
+            <Button
+                android:id="@+id/button_geographie_CM2"
+                android:layout_width="370px"
+                android:layout_height="150px"
+                android:layout_gravity="center"
+                android:backgroundTint="@color/dark_blue"
+                android:onClick="onClickGeographieCM2"
+                android:text="Geographie"
+                app:cornerRadius="200px" />
+
+        </LinearLayout>
+
+    </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
