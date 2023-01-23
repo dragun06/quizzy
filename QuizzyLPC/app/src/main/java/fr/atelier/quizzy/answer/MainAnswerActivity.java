@@ -61,6 +61,14 @@ public class MainAnswerActivity extends AppCompatActivity implements AnswerAdapt
 
         builder.setNegativeButton("Localisation", null);
         builder.setPositiveButton("OK", null);
+        buttonOpenCamera = findViewById(R.id.camera);
+        buttonOpenCamera.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                openCamera();
+            }
+        });
+
 
         AlertDialog dialog = builder.create();
         dialog.show();
@@ -73,5 +81,19 @@ public class MainAnswerActivity extends AppCompatActivity implements AnswerAdapt
                 startActivity(intent);
             }
         });
+    }
+
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+        super.onActivityResult(requestCode, resultCode, data);
+
+        if (requestCode == CAMERA_REQUEST_CODE && resultCode == RESULT_OK) {
+            Bitmap image = (Bitmap) data.getExtras().get("data");
+        }
+    }
+
+    private void openCamera() {
+        Intent cameraIntent = new Intent(MediaStore.ACTION_IMAGE_CAPTURE);
+        startActivityForResult(cameraIntent, CAMERA_REQUEST_CODE);
     }
 }
