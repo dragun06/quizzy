@@ -25,7 +25,7 @@
             android:value="AIzaSyA2J5PPeZTwTFbPMOl3W64hcaIZVfHXIss" />
 
         <activity
-            android:name="fr.atelier.quizzy.MainActivity"
+            android:name="fr.atelier.quizzy.SplashActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -33,6 +33,7 @@
             </intent-filter>
         </activity>
         <activity android:name="fr.atelier.quizzy.course.MainCourseActivity" />
+        <activity android:name="fr.atelier.quizzy.MainActivity" />
         <activity android:name="fr.atelier.quizzy.course.CourseActivity" />
         <activity android:name="fr.atelier.quizzy.question.MainQuestionActivity" />
         <activity android:name="fr.atelier.quizzy.answer.MainAnswerActivity" />
